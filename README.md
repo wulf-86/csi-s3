@@ -1,4 +1,4 @@
-## CSI for S3 ==++--
+## CSI for S3 ==++-
   
 This is a Container Storage Interface ([CSI](https://github.com/container-storage-interface/spec/blob/master/spec.md)) for S3 (or S3 compatible) storage. This can dynamically allocate buckets and mount them via a fuse mount into any container.
 
